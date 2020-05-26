@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KoEonYack/blog-nodejs/issues"
   },
-  "homepage": "https://github.com/KoEonYack/blog-nodejs#readme"
+  "homepage": "https://github.com/KoEonYack/blog-nodejs#readme",
+  "dependencies": {
+    "mongoose": "^5.9.16"
+  }
 }
