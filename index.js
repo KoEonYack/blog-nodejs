@@ -23,9 +23,7 @@ MongoDB.connect(dbURL, (error, client) => {
     }, (error, db) => {
         if (error) throw error;
         console.log(db);
-});
-
-
+    });
 })
 
 
