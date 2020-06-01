@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KoEonYack/blog-nodejs/issues"
   },
-  "homepage": "https://github.com/KoEonYack/blog-nodejs#readme"
+  "homepage": "https://github.com/KoEonYack/blog-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express-ejs-layouts": "^2.5.0",
+    "http-status-codes": "^1.4.0"
+  }
 }
